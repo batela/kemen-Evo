@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kemen", "kemen.csproj", "{BA900771-0246-48E1-8C93-83AD28250B75}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KemenSetUp", "..\KemenSetUp\KemenSetUp.vdproj", "{4F5B52F7-C6FA-4DF8-A69D-35867A1819D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA900771-0246-48E1-8C93-83AD28250B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA900771-0246-48E1-8C93-83AD28250B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA900771-0246-48E1-8C93-83AD28250B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA900771-0246-48E1-8C93-83AD28250B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F5B52F7-C6FA-4DF8-A69D-35867A1819D8}.Debug|Any CPU.ActiveCfg = Debug
+		{4F5B52F7-C6FA-4DF8-A69D-35867A1819D8}.Debug|Any CPU.Build.0 = Debug
+		{4F5B52F7-C6FA-4DF8-A69D-35867A1819D8}.Release|Any CPU.ActiveCfg = Release
+		{4F5B52F7-C6FA-4DF8-A69D-35867A1819D8}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
